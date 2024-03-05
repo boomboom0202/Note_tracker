@@ -1,5 +1,5 @@
 # Note_tracker
-To start the network builder project, you need to do the following steps
+To start the Note_tracker project, you need to do the following steps
 
 Clone the repository using the git clone command
 In the terminal of your IDE, create a virtual environment using the python -m venv env command
